@@ -1,0 +1,60 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.travel_maindiv{
+    border: 1px solid gray;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.travel_maindiv hr{
+    width: 230px;
+}
+.travel_maindiv h5,.travel_maindiv p{
+ margin-left: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+h5 span{
+    color: #ffce30;
+}
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+#maps{
+    margin-top: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
